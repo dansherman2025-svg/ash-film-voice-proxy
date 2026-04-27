@@ -1,0 +1,13 @@
+{
+  "name": "yandex-vapi-proxy",
+  "version": "1.0.0",
+  "description": "Yandex SpeechKit proxy for Vapi.ai - Дэш Фильм AI agent",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^33.0.0"
+  }
+}
